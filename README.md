@@ -11,10 +11,10 @@ Os diferentes módulos permitem que o sistema seja usado de forma dinâmica, sen
 # Repo Links:
 
 ## Back
-https://github.com/filipetocchio/TCC-Back
+https://github.com/filipetocchio/TCC-Back-7
 
 ## Front Web
-https://github.com/filipetocchio/TCC-Front_Web
+https://github.com/filipetocchio/TCC-Front_Web-7
 
 ## Front Mobile 
-https://github.com/filipetocchio/TCC-Front_Mobile
+https://github.com/filipetocchio/TCC-Front_Mobile-7
